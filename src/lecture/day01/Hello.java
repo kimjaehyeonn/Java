@@ -1,4 +1,4 @@
-package ch01.sec09; //;  생략불가, src아래 하위 폴더를 지정, 맨 윗줄에 위치!!
+package lecture.day01; //;  생략불가, src아래 하위 폴더를 지정, 맨 윗줄에 위치!!
 
 
 public class Hello {// 클래스 이름이 파일 이름이랑 같아야 됨.

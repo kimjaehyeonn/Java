@@ -1,4 +1,4 @@
-package test;
+package lecture.day02.test;
 
 // int x = 100; // 모든 변수는 class 안으로 들어가야함. 전역변수x
 public class VariableTest {

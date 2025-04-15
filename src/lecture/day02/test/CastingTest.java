@@ -1,4 +1,4 @@
-package test;
+package lecture.day02.test;
 
 public class CastingTest {
     public static void main(String[] args) {

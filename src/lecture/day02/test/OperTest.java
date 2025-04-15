@@ -1,4 +1,4 @@
-package test;
+package lecture.day02.test;
 
 public class OperTest {
     public static void main(String[] args) {
