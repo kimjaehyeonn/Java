@@ -31,7 +31,7 @@ public class ClassUse {
         System.out.println("입력한 name : " + name);
         System.out.println("내년 age : " + (age + 1));
         System.out.println("w : " + w);
-
+        sc.close();
         /*
             입력 ----
             잘 살자
