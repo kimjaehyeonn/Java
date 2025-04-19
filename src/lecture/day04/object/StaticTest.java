@@ -1,4 +1,4 @@
-package Java.src.lecture.day04.object;
+package lecture.day04.object;
 
 import java.util.Arrays;
 

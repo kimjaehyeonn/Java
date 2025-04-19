@@ -1,4 +1,4 @@
-package Java.src.practice.basic.ch04;
+package practice.basic.ch04;
 
 public class IfExample {
     public static void main(String[] args) {

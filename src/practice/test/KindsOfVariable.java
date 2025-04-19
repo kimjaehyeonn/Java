@@ -1,4 +1,4 @@
-package Java.src.practice.test;
+package practice.test;
 
 public class KindsOfVariable {
     /*

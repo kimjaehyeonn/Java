@@ -1,4 +1,4 @@
-package Java.src.practice.advanced.ch02.sec13;
+package practice.advanced.ch02.sec13;
 
 import java.util.Scanner;
 

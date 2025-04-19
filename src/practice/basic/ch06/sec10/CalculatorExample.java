@@ -1,4 +1,4 @@
-package Java.src.practice.basic.ch06.sec10;
+package practice.basic.ch06.sec10;
 
 public class CalculatorExample {
     public static void main(String[] args) {

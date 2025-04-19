@@ -1,6 +1,6 @@
-package Java.src.practice.test.problem2;
+package practice.test.problem2;
 
-import Java.src.practice.test.problem.Monster;
+import practice.test.problem.Monster;
 
 public class Application {
     public static void main(String[] args) {

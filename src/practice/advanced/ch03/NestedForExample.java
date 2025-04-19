@@ -1,4 +1,4 @@
-package Java.src.practice.advanced.ch03;
+package practice.advanced.ch03;
 
 public class NestedForExample {
     public static void main(String[] args) {

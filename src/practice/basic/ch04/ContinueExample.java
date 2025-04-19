@@ -1,4 +1,4 @@
-package Java.src.practice.basic.ch04;
+package practice.basic.ch04;
 
 public class ContinueExample {
     public static void main(String[] args) throws Exception {

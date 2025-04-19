@@ -1,4 +1,4 @@
-package Java.src.practice.advanced.ch02;
+package practice.advanced.ch02;
 
 public class PrintfExample {
     public static void main(String[] args) {

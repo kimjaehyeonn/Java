@@ -1,4 +1,4 @@
-package Java.src.practice.basic.ch05;
+package practice.basic.ch05;
 
 import java.util.Arrays;
 

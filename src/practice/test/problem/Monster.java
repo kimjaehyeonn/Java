@@ -1,4 +1,4 @@
-package Java.src.practice.test.problem;
+package practice.test.problem;
 
 public class Monster {
     /*

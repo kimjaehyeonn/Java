@@ -1,4 +1,4 @@
-package Java.src.lecture.day04.object;
+package lecture.day04.object;
 
 public class Calc2 { //계산기
     //인스턴스 변수

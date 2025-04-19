@@ -1,4 +1,4 @@
-package Java.src.practice.basic.ch05;
+package practice.basic.ch05;
 
 public class ArrayReferenceObjectExample {
     public static void main(String[] args) {
