@@ -1,4 +1,4 @@
-package practice.basic.ch07;
+package practice.basic.ch07.sec04;
 
 public class Calculator {
     // 메소드 선언
