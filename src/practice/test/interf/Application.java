@@ -1,4 +1,4 @@
-package practice.basic.ch08;
+package practice.test.interf;
 
 public class Application {
     public static void main(String[] args) {

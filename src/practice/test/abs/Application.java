@@ -1,4 +1,4 @@
-package practice.basic.ch07.sec10.lecture;
+package practice.test.abs;
 
 public class Application {
     public static void main(String[] args) {

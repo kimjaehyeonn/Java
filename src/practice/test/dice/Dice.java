@@ -1,7 +1,9 @@
+/*
 package practice.test.dice;
 
-public class Dic {
+public class Dice {
     public Integer getNumber(){
         return this.number;
     }
 }
+*/

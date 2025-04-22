@@ -1,6 +1,6 @@
-package practice.basic.ch07.sec10.lecture;
+package practice.test.abs;
 
-public class SmartPhone  extends Product{
+public class SmartPhone  extends Product {
 
 
     @Override

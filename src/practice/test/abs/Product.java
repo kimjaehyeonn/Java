@@ -1,4 +1,4 @@
-package practice.basic.ch07.sec10.lecture;
+package practice.test.abs;
 
 public abstract class Product {
     private int nonStaticField;

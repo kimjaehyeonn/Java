@@ -1,6 +1,6 @@
-package practice.basic.ch08;
+package practice.test.interf;
 
-public class Product implements InterProduct{
+public class Product implements InterProduct {
     @Override
     public void nonStaticMethod() {
         System.out.println("InterProduct.의 nonStaticMehtod 오버라이딩한 메소드 호출...!");
