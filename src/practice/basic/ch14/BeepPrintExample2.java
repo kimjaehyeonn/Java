@@ -4,6 +4,8 @@ import java.awt.*;
 
 public class BeepPrintExample2 {
     public static void main(String[] args) {
+        //  Creates a thread by implementing the Runnable interface via an anonymous class
+
         // 익명 클래스: 이름 없이 인터페이스나 추상클래스를 즉석에서 구현하는 클래스
         // 익명 객체: 익명 클래스로 만든 객체
         Thread thread = new Thread(new Runnable() {
