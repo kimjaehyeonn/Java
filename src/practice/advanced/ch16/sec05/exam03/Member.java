@@ -1,4 +1,4 @@
-package practice.basic.ch16.sec05.exam03;
+package practice.advanced.ch16.sec05.exam03;
 
 public class Member {
     private String id;
