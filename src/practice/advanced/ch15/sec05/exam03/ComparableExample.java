@@ -7,7 +7,7 @@ public class ComparableExample {
 
         /*TreeSet 특징
         * - 자동 정렬 유지: 요소를 추가하면 내부에서 compareTo 또는 생성자에 넘긴 Comparator 에 따라
-        *                 적절한 위치에 삽입 ㅁ치 항상 올므차순 똔느 comparator 기준으로 정렬됨
+        *                 적절한 위치에 삽입 위치 항상 오름차순 또는 comparator 기준으로 정렬됨
         * - 중복 불가
         * - null 금지
         * */
